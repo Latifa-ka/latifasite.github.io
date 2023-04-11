@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Dongle', sans-serif;
+  font-weight: lighter;
+  color: #40514E;
+  /* background-color: #FDFAF6; */
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-size: 250%;
+}
+
+h2 {
+  font-size: 180%;
+  font-family: 'Mochiy Pop P One', sans-serif;
+margin-bottom: 5%;
+
+}
+
+hr {
+  border: dotted #7C99AC 6px;
+  background-color: #ffff;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.heading {
+  line-height: 312.5%;
+  font-size: 160%;
+  font-family: 'Dongle', sans-serif;
+}
+
+p ,.col{
+  font-size: 160%;
+  color: #92A9BD;
+}
+
+
+/* td{padding:10px 20px 10px 10px;} */
+
+h3 {
+  color: #7C99AC;
+  font-size: 200%;
+}
+
+a {
+  color:  #FDFAF6;
+  font-family: 'Dongle', sans-serif;
+  margin: 10px 20px;
+  font-size: 160%;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7C99AC;
+}
+
+.top-container {
+  background-color: #92A9BD;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+
+.experience-row {
+  width: 50%;
+  margin: auto;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 100px;
+  text-align: left;
+}
+
+
+
+#skills {
+
+  padding-top: 50px ;
+  margin-top: 50px 0;
+  background-color: #FDFAF6;
+}
+
+
+.certificate{padding-bottom:12%;}
+
+.my-image, .architecture-image, .computer-image, .languages-image {
+  height: 300px;
+  margin-bottom: 10%;
+}
+
+.my-image {
+  border-radius: 50%;
+}
+
+.computer-image {
+  margin-top: 10%;
+}
+
+.time-image, .Certificates-image {
+  float: left;
+  height: 100px;
+  margin-top: 60px;
+  padding-right: 30px;
+}
+
+.Certificates-image {
+  float: right;
+  padding-left: 30px;
+}
+.languages{text-align: left;
+margin-bottom: 100px;
+
+}
+
+
+.copyright {
+  color: #7C99AC;
+  width: 30%;
+  margin: auto;
+  padding: 20px 0;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #92A9BD;
+  padding: 50px 0 20px;
+}
+.contact{margin-bottom: 8%;}
+.contact-message {
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+/* navbar */
+#title {
+  background-color: #92A9BD;
+}
+
+.navbar-brand {
+  margin-right: 40%;
+  margin-left: 15%;
+}
+
+/* //color palettes//
+  #FFEFEF;
+  #D3DEDC
+  E4EFE7
+  #7C99AC;
+  #92A9BD; */
